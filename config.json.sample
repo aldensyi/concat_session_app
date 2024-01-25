@@ -1,0 +1,10 @@
+{
+    "bold_singles":[
+        "testcase/bold.nii.gz",
+        "testcase/bold.nii.gz"
+    ],
+    "events_singles":[
+        "testcase/events.tsv",
+        "testcase/events1.tsv"
+    ]
+}
